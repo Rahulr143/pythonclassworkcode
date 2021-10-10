@@ -8,7 +8,7 @@ from  graphics.circle import *
 l=40
 b=50
 h=80
-r=6
+r=8
 
 
 
