@@ -1,5 +1,5 @@
-x=int(input("Enter a future year="))
-y=int(input("Enter the current year="))
+x=int(input("Enter a future year :"))
+y=int(input("Enter the current year:"))
 
 while (y<=x):
     if y%100==0:
